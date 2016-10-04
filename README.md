@@ -1,2 +1,2 @@
 # 1300Assign1
-Assignment for webdev class
+very simple first assignment for webdev class
